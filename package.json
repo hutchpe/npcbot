@@ -1,0 +1,17 @@
+{
+  "name": "soybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "jsonfile": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

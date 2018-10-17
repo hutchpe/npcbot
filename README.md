@@ -1,0 +1,5 @@
+# npcbot
+
+``` js
+  self.trigger()
+```

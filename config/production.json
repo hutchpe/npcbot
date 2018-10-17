@@ -1,0 +1,50 @@
+{
+  "messageLength": {
+    "quips": {
+      "lower": 5,
+      "upper": 15
+    },
+    "count": {
+      "lower": 1,
+      "upper": 1
+    }
+  },
+  "cooldownSeconds": 3,
+  "triggers": [
+    "fag", "fags", "faggots", "faggot", "gay",
+    "nigger", "niggers", "nog", "nig",
+    "abo",
+    "tranny",
+    "white",
+    "patriarchy",
+    "male", "man", "men",
+    "privilege",
+    "jew", "jews",
+    "chad",
+    "wage", "gap",
+    "free", "freedom",
+    "thot", "slut", "whore", "ho", "hoe",
+    "jordan", "peterson",
+    "moonman",
+    "lynch"
+  ],
+  "quips": [
+    "twitterAccount.blueCheckmark = true;\n",
+    "if (man.Color == Color.orange) {\n  man.Bad = true;\n}\n",
+    "if (accusation.GetAccuser().Gender == Gender.WOMAN) {\n  accusation.Believe();\n}\n",
+    "Brexit.Stop();\n",
+    "enum Media {\n  MARVEL,\n  STAR_WARS,\n  HARRY_POTTER\n}\n",
+    "Soy.Drink();\n",
+    "wife.SexPartners++;\n",
+    "vibrationController.Shake();\n",
+    "System.Out.Println(\"Y'all\");\n",
+    "if (redditAccount.Karma.Gold > 0) {\n  FindSirOfType<Kind>().Thank();\n}\n",
+    "doggo.Snoop.Boop();\n",
+    "foreach (Migrant m in migrants) {\n  if (m.IQ < 86) {\n    m.LetIn();\n  }\n}\n",
+    "Queen.Yaaas();\n",
+    "Queen.Slay();\n",
+    "even.Can = false;\n",
+    "foreach (Participant p in intercourse.Participants) {\n  if (p.id == this.id) {\n    p.Watch();\n  } else if (p.id == \"Tyrone\") {\n    Participant wife = intercourse.FindParticipantById(\"Wife\");\n    wife.GetFuckedBy(p);\n  }\n}\n"
+  ],
+  "wrangledNibbas": []
+}
