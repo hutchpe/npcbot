@@ -1,0 +1,2 @@
+# npcbot
+human.exe
